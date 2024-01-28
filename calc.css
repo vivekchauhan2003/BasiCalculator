@@ -1,0 +1,40 @@
+
+input{
+    width: 100%;
+    background-color: rgb(0, 255, 0);
+    color: black;
+    font-size: large;
+    border: none;
+    font-size: 25px;
+    border-radius: 5px;
+    height: 50px;
+    
+}
+button{
+    width: 24%;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    background-color: gray;
+    color: white;
+    border: none;
+    /* padding-right: 25px; */
+    border-radius: 5px;
+}
+
+.calculator{
+    background-color: black;
+    padding: 25px;
+    /* border: none; */
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 5px solid gray;
+    border-radius: 5px;
+}
+body {
+    background-image: url(https://images.pexels.com/photos/47334/meadow-grass-palm-tree-forest-plenty-of-natural-light-47334.jpeg);
+    background-repeat:repeat-x;
+    background-size: cover;
+    
+}
